@@ -1,2 +1,16 @@
 C:\Users\Carson Blair\source\repos\VehicleMileageControls.WebMVC\VehicleMileageControl.Data\obj\Debug\VehicleMileageControl.Data.csprojAssemblyReference.cache
 C:\Users\Carson Blair\source\repos\VehicleMileageControls.WebMVC\VehicleMileageControl.Data\obj\Debug\VehicleMileageControl.Data.csproj.CoreCompileInputs.cache
+C:\Users\Carson Blair\source\repos\VehicleMileageControls.WebMVC\VehicleMileageControl.Data\bin\Debug\VehicleMileageControl.Data.dll.config
+C:\Users\Carson Blair\source\repos\VehicleMileageControls.WebMVC\VehicleMileageControl.Data\bin\Debug\VehicleMileageControl.Data.dll
+C:\Users\Carson Blair\source\repos\VehicleMileageControls.WebMVC\VehicleMileageControl.Data\bin\Debug\VehicleMileageControl.Data.pdb
+C:\Users\Carson Blair\source\repos\VehicleMileageControls.WebMVC\VehicleMileageControl.Data\bin\Debug\EntityFramework.dll
+C:\Users\Carson Blair\source\repos\VehicleMileageControls.WebMVC\VehicleMileageControl.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carson Blair\source\repos\VehicleMileageControls.WebMVC\VehicleMileageControl.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Carson Blair\source\repos\VehicleMileageControls.WebMVC\VehicleMileageControl.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Carson Blair\source\repos\VehicleMileageControls.WebMVC\VehicleMileageControl.Data\bin\Debug\EntityFramework.xml
+C:\Users\Carson Blair\source\repos\VehicleMileageControls.WebMVC\VehicleMileageControl.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carson Blair\source\repos\VehicleMileageControls.WebMVC\VehicleMileageControl.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Carson Blair\source\repos\VehicleMileageControls.WebMVC\VehicleMileageControl.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Carson Blair\source\repos\VehicleMileageControls.WebMVC\VehicleMileageControl.Data\obj\Debug\VehicleMileageControl.Data.csproj.CopyComplete
+C:\Users\Carson Blair\source\repos\VehicleMileageControls.WebMVC\VehicleMileageControl.Data\obj\Debug\VehicleMileageControl.Data.dll
+C:\Users\Carson Blair\source\repos\VehicleMileageControls.WebMVC\VehicleMileageControl.Data\obj\Debug\VehicleMileageControl.Data.pdb
