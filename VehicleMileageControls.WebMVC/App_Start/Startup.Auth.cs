@@ -11,9 +11,9 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.OpenIdConnect;
 using Microsoft.IdentityModel.Clients.ActiveDirectory;
 using Owin;
-using WebMVC.Models;
+using VehicleMileageControls.WebMVC.Models;
 
-namespace WebMVC
+namespace VehicleMileageControls.WebMVC
 {
     public partial class Startup
     {
